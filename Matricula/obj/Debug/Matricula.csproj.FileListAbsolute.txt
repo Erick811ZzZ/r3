@@ -1,0 +1,10 @@
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\bin\Debug\Matricula.exe.config
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\bin\Debug\Matricula.exe
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\bin\Debug\Matricula.pdb
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\obj\Debug\Matricula.csproj.AssemblyReference.cache
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\obj\Debug\Matricula.Form1.resources
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\obj\Debug\Matricula.Properties.Resources.resources
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\obj\Debug\Matricula.csproj.GenerateResource.cache
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\obj\Debug\Matricula.csproj.CoreCompileInputs.cache
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\obj\Debug\Matricula.exe
+C:\Users\Erick\OneDrive\Escritorio\RepositorioPruebamio\r3\Matricula\obj\Debug\Matricula.pdb
